@@ -41,17 +41,21 @@
 
 ## 📂 Projects
 
-### 🔹 Customer Behavior Analytics (PySpark)
-- Built using PySpark for large-scale data processing  
-- Performed data cleaning, transformation, and analysis  
-- Generated insights on customer trends  
+### 🔹 Retail Sales Data Pipeline using Azure (End-to-End ETL)
+- Designed and implemented an end-to-end ETL pipeline using Azure Data Factory (ADF) to ingest retail sales data from external APIs  
+- Stored raw and processed data in Azure Data Lake Storage (ADLS Gen2)  
+- Performed data transformation and cleansing using PySpark in Azure Databricks  
+- Built curated datasets for analytics and reporting  
+- Implemented scheduling and monitoring for automated pipeline execution  
 
 ---
 
-### 🔹 Azure Data Pipeline Project
-- Created end-to-end pipeline using ADF  
-- Data ingestion → transformation → storage  
-- Used Azure Data Lake for scalable storage  
+### 🔹 Customer Behavior Analytics using PySpark and Databricks
+- Processed large-scale customer interaction data using PySpark in Databricks  
+- Performed complex transformations including joins, aggregations, and window functions  
+- Analyzed customer behavior patterns to derive actionable insights  
+- Optimized performance using partitioning and distributed computing techniques  
+- Generated structured datasets for downstream analytics and reporting  
 
 ---
 
